@@ -10,6 +10,6 @@ spec:
         - name: course
           value: devops
         - name: trainer
-          value: "sivakumer"
+          value: "sivakumar"
         - name: duration
           value: "120hrs"
